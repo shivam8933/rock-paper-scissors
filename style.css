@@ -16,6 +16,7 @@ radial-gradient(at 55% 88%, hsla(206,91%,79%,1) 0px, transparent 50%),
 radial-gradient(at 47% 19%, hsla(324,91%,79%,1) 0px, transparent 50%),
 radial-gradient(at 13% 74%, hsla(232,91%,79%,1) 0px, transparent 50%),
 radial-gradient(at 10% 8%, hsla(3,91%,79%,1) 0px, transparent 50%);
+}
 h1 {
   background-color: rgb(190, 252, 31);
   height: 3.5rem;
